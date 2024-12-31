@@ -107,7 +107,13 @@
 
 @media (max-width: 480px) {}
 
-@media (max-width: 420px) {}
+@media (max-width: 428px) {
+    .contact_section .container-fluid .row img{
+        height: 90%;
+        width: 90%;
+        padding-left: 50px;
+    }
+}
 
 @media (max-width: 360px) {}
 
